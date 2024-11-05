@@ -1,0 +1,22 @@
+[you can also check my linkedin for this insights - https://www.linkedin.com/feed/update/urn:li:activity:7258853475667648512/]
+
+
+✅ 𝐓𝐡𝐢𝐬 𝐢𝐬 𝐰𝐡𝐚𝐭 𝐈 𝐟𝐨𝐮𝐧𝐝 𝐛𝐲 𝐚𝐧𝐚𝐥𝐲𝐳𝐢𝐧𝐠 𝐭𝐡𝐞 𝐝𝐚𝐭𝐚𝐬𝐞𝐭 👇
+
+1. 𝐏𝐚𝐭𝐢𝐞𝐧𝐭 𝐝𝐞𝐦𝐨𝐠𝐫𝐚𝐩𝐡𝐢𝐜𝐬 𝐚𝐧𝐝 𝐓𝐮𝐦𝐨𝐫 𝐜𝐡𝐚𝐫𝐚𝐜𝐭𝐞𝐫𝐢𝐬𝐭𝐢𝐜𝐬: The cards show that the average age of patients is 40, and the average tumor size is 4 cm
+
+2. 𝐓𝐨𝐭𝐚𝐥 𝐂𝐚𝐬𝐞𝐬 𝐰𝐢𝐭𝐡 𝐇𝐢𝐬𝐭𝐨𝐫𝐲 & 𝐌𝐚𝐥𝐢𝐠𝐧𝐚𝐧𝐭 𝐂𝐚𝐬𝐞𝐬: The number of patients with a family history of cancer (41) and the total malignant cases (92), indicating a potential link between history and malignancy.
+
+3. 𝐃𝐢𝐚𝐠𝐧𝐨𝐬𝐢𝐬 𝐑𝐞𝐬𝐮𝐥𝐭 (𝐏𝐢𝐞): Shows that 56.4% of cases are malignant, suggesting a high prevalence of serious cases in the dataset.
+
+4. 𝐓𝐮𝐦𝐨𝐫 𝐒𝐢𝐳𝐞 𝐛𝐲 𝐀𝐠𝐞 (𝐒𝐜𝐚𝐭𝐭𝐞𝐫): Relationship between age and tumor size, showing variability across different age groups.
+
+5. 𝐓𝐮𝐦𝐨𝐫 𝐒𝐢𝐳𝐞 𝐃𝐢𝐬𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐛𝐲 𝐌𝐞𝐧𝐨𝐩𝐚𝐮𝐬𝐞 𝐒𝐭𝐚𝐭𝐮𝐬 (𝐁𝐨𝐱): Compares tumor size distributions between premenopausal and postmenopausal patients, suggesting menopausal status may impact tumor size.
+
+6. 𝐀𝐭𝐭𝐫𝐢𝐭𝐢𝐨𝐧 𝐛𝐲 𝐀𝐠𝐞 𝐆𝐫𝐨𝐮𝐩 (𝐘𝐞𝐚𝐫𝐬): The bar chart shows cancer cases distributed across age groups, revealing the prevalence of benign and malignant cases by age.
+
+7. 𝐌𝐞𝐭𝐚𝐬𝐭𝐚𝐬𝐢𝐬 𝐛𝐲 𝐀𝐠𝐞 𝐇𝐢𝐬𝐭𝐨𝐠𝐫𝐚𝐦: Indicates how metastasis cases vary by age, showing a higher frequency in older patients.
+
+8. 𝐃𝐢𝐚𝐠𝐧𝐨𝐬𝐢𝐬 𝐑𝐞𝐬𝐮𝐥𝐭 𝐛𝐲 𝐁𝐫𝐞𝐚𝐬𝐭 𝐐𝐮𝐚𝐝𝐫𝐚𝐧𝐭: Displays that the "Upper outer" quadrant has the highest number of diagnosed cases, potentially identifying a pattern in tumor location.
+
+ ✅ The "𝐩𝐢𝐧𝐤" ribbon is a universal symbol of breast cancer awareness, hope, and community. That's why I used pink color.
